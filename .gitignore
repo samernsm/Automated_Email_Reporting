@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated reports
+output/reports/
+
+# Logs
+output/logs/
+
+# Excel temporary files
+~$*.xlsx
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer,Region,Product,Category,Quantity,Unit_Price,Sales,Cost,Profit
+1001,2026-08-01,Ahmed Hassan,Cairo,Laptop,Technology,2,15000,30000,24000,6000
+1002,2026-08-01,Mohamed Ali,Alexandria,Monitor,Technology,3,4500,13500,10500,3000
+1003,2026-08-02,Omar Adel,Giza,Keyboard,Accessories,5,800,4000,2750,1250
+1004,2026-08-02,Ahmed Hassan,Cairo,Mouse,Accessories,8,450,3600,2400,1200
+1005,2026-08-03,Sara Mohamed,Giza,Laptop,Technology,1,15000,15000,12000,3000
+1006,2026-08-03,Mahmoud Samir,Alexandria,Printer,Office,2,6000,12000,9000,3000
+1007,2026-08-04,Ali Mostafa,Cairo,Monitor,Technology,4,4500,18000,14000,4000
+1008,2026-08-04,Sara Mohamed,Giza,Keyboard,Accessories,10,800,8000,5500,2500
+1009,2026-08-05,Omar Adel,Cairo,Printer,Office,3,6000,18000,13500,4500
+1010,2026-08-05,Mohamed Ali,Alexandria,Mouse,Accessories,12,450,5400,3600,1800
+10011,2026-08-06,Ahmed Hassan,Cairo,Laptop,Technology,3,15000,45000,36000,9000
+1012,2026-08-06,Ali Mostafa,Giza,Monitor,Technology,2,4500,9000,7000,2000
+10013,2026-08-07,Sara Mohamed,Cairo,Printer,Office,4,6000,24000,18000,6000
+1014,2026-08-07,Mahmoud Samir,Alexandria,Keyboard,Accessories,7,800,5600,3850,1750
+1015,2026-08-08,Omar Adel,Giza,Laptop,Technology,2,15000,30000,24000,6000
+1016,2026-08-08,Ahmed Hassan,Cairo,Mouse,Accessories,15,450,6750,4500,2250
+1017,2026-08-09,Mohamed Ali,Alexandria,Printer,Office,3,6000,18000,13500,4500
+1018,2026-08-09,Ali Mostafa,Giza,Keyboard,Accessories,9,800,7200,4950,2250
+1019,2026-08-10,Sara Mohamed,Cairo,Monitor,Technology,5,4500,22500,17500,5000
+1020,2026-08-10,Mahmoud Samir,Alexandria,Laptop,Technology,1,15000,15000,12000,3000
